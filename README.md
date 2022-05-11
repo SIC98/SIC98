@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Rust-dea584?logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/-R-198CE7?logo=R&logoColor=white">
 <br>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white">
