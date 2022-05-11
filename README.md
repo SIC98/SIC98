@@ -1,11 +1,11 @@
 # SIC98
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML-E34c26?logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/-Javascript-F1e05A?logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-563d7c?logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-2b7489?logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/-Rust-dea584?logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/-R-198CE7?logo=R&logoColor=white">
 <br>
