@@ -14,10 +14,11 @@
   <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=Visual+Studio+Code&logoColor=white">
 <br>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white">
 </p>
 <p align="center">
   <a href="https://github.com/SIC98"><img src="https://img.shields.io/badge/GitHub-SIC98-181717?logo=github&logoColor=white"></a>
   <a href="https://github.com/inchul-owhen"><img src="https://img.shields.io/badge/GitHub-inchul_owhen-181717?logo=github&logoColor=white"></a>
+  <a href="https://huggingface.co/SIC98"><img src="https://img.shields.io/badge/🤗 HuggingFace-SIC98-181717"></a>
+<br>
   <a href="mailto:shininchul98@gmail.com"><img src="https://img.shields.io/badge/Email-shininchul98@gmail.com-2196F3?logo=gmail&logoColor=white"></a>
 </p>
